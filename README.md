@@ -8,3 +8,5 @@ If you have a dictionary that you've created with GenSent, you can also save and
 If you're using multiple text files and would like the words from one text file to show up more frequently than another, you can simply add that same file to the list multiple times before generating your dictionary.
 
 Like most programs that generate something new from given data, the more data you feed it, the more natural the results.
+
+The ability to find rhyming words is made possible by the inclusion of [pronoucing](https://github.com/aparrish/pronouncingpy) interface by Allison Parrish
